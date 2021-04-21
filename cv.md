@@ -1,7 +1,7 @@
 # Aliaksandr Hrabiankou
 
 ## Contact Info
-* **Email:** picccc89@gmail.com
+* **Email:** picccc89@gmail.com troay89@mail.ru
 * **Phone:** +375336727191
 * **Telegram:** @Sannekk
 
