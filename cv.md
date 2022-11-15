@@ -1,6 +1,6 @@
 # Aliaksandr Hrabiankou
 
-![this is me](images/good_guy2.jpg "The best programmer in the world")
+![this is me](images/good_guy.jpg "The best programmer in the world")
 
 
 ## Contacts:   
