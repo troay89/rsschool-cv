@@ -1,0 +1,31 @@
+div {
+    margin: auto;
+    width: 900px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+    div.main {
+        line-height: 1.4em;
+        border-radius: 20px 20px 0px 0px;
+        margin-bottom: 20px;
+    }
+
+    div.footer {
+        border-radius: 0px 0px 20px 20px;
+    }
+
+h1, h2 {
+    text-align: center;
+}
+
+.logo {
+    width: 30px;
+    height: auto;
+}
+
+span {
+    padding: 10%;
+}
+
